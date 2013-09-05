@@ -1,0 +1,30 @@
+//
+//  LoveASIFormDataRequest.m
+//  iLove
+//
+//  Created by mtf on 12-11-12.
+//  Copyright (c) 2012年 www.fanxer.com. All rights reserved.
+//
+
+#import "LoveASIFormDataRequest.h"
+#import "NSString+Love.h"
+
+@implementation LoveASIFormDataRequest
+@synthesize uniqueIdentifier = _uniqueIdentifier;
+
+-(id)initWithURL:(NSURL *)newURL{
+    
+    self = [super initWithURL:newURL];
+    
+    if (self) {
+        NSMutableString *str = [NSMutableString stringWithFormat:@"%@ %@", self.requestMethod, self.url];
+        [str appendString:[NSString uuid]];
+        
+         _uniqueIdentifier = [str md5];
+        FXLogInfo(@"%@",_uniqueIdentifier);
+    }
+ 
+    return self;
+}
+
+@end

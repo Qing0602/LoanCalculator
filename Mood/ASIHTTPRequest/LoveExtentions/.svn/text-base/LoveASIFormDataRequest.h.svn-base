@@ -1,0 +1,15 @@
+//
+//  LoveASIFormDataRequest.h
+//  iLove
+//
+//  Created by mtf on 12-11-12.
+//  Copyright (c) 2012年 www.fanxer.com. All rights reserved.
+//
+
+#import "ASIFormDataRequest.h"
+
+@interface LoveASIFormDataRequest : ASIFormDataRequest
+
+@property (nonatomic,strong) NSString *uniqueIdentifier;
+
+@end

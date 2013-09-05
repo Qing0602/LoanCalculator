@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/12385/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12383/client/ios/source/trunk/iLove/ThirdParty/ASIHTTPRequest/ASIDataCompressor.m
+END
